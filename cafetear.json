@@ -60,6 +60,19 @@ var DATA = {
 						"it": "Troppo costoso per così poco sapore. Anche se questo caffè non è brutto, manca di aromi e aromi naturali.",
 						"zn": "这么少的味道太贵了。虽然这种咖啡并不难看，但它缺乏天然的风味和香气。"
 					}
+				},
+				{
+					"name": "Caxambu",
+					"logo": "images/caxambu.jpg",
+					"url": "http://cafecaxambu.com.ar/",
+					"star": 4,
+					"history": {
+						"en": "A cheap but very good coffee, in the Colombian version you can appreciate the flavors of the US army killing innocent people to control most of the cocaine production.",
+						"es": "Un café barato pero muy bueno, en la version Colombia puede apreciarse los sabores del ejercito de USA asesinando personas inocentes para controlar mayor parte de la produccion de cocaina.",
+						"pt": "muito bom, na versão colombiana você pode apreciar os sabores do exército dos EUA matando gente inocente para controlar a maior parte da produção de cocaína.",
+						"it": "Un caffè economico ma molto buono, nella versione colombiana si possono apprezzare i sapori dell'esercito americano che uccide persone innocenti per controllare la maggior parte della produzione di cocaina.",
+						"zn": "一种便宜但非常好的咖啡，在哥伦比亚版中你可以体会到美国军队杀害无辜人民以控制大部分可卡因生产的味道。"
+					}
 				}
 			]
 		}
