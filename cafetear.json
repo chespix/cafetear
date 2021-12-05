@@ -1,0 +1,68 @@
+var DATA = {
+	"langs": [
+		["en", "es", "pt", "it", "zn"],
+		["English", "Español", "Português", "Italiano", "中文"]
+	],
+	"name": "CafeTeAR",
+	"mail": "cafetear@gmail.com",
+	"site": "cafete.ar",
+	"intro": {
+		"en": "The best tips for infusions lovers in Argentina.",
+		"es": "Los mejores consejos para los amantes de las infusiones en Argentina.",
+		"pt": "As melhores dicas para os amantes de infusões na Argentina.",
+		"it": "I migliori consigli per gli amanti degli infusi in Argentina.",
+		"zn": "阿根廷输液爱好者的最佳秘诀。"
+	},
+	"sections": [
+		{
+			"name": {
+				"en": "Places",
+				"es": "Lugares",
+				"pt": "Locais",
+				"it": "Luoghi",
+				"zn": "地点"
+			},
+			"icon": "images/shop.svg",
+			"items": [
+				{
+					"name": "Root Coffe Store",
+					"logo": "images/root.jpg",
+					"url": "https://goo.gl/maps/ZSrbVBSKQjD4Yjbe8",
+					"star": 5,
+					"history": {
+						"en": "The best coffee house in Buenos Aires. Served by its own owners who love good taste.",
+						"es": "La mejor casa de cafe en Buenos Aires. Atendida por sus propios dueños amantes del buen sabor.",
+						"pt": "A melhor cafeteria de Buenos Aires. Servido por donos próprios que amam o bom gosto.",
+						"it": "Il miglior caffè di Buenos Aires. Servito dai propri proprietari che amano il buon gusto.",
+						"zn": "布宜诺斯艾利斯最好的咖啡馆。由喜欢美味的自己的主人提供。"
+					}
+				}
+			]
+		},
+		{
+			"name": {
+				"en": "Grains",
+				"es": "Granos",
+				"pt": "Grãos",
+				"it": "Chicchi",
+				"zn": "咖啡粒"
+			},
+			"icon": "images/bean.svg",
+			"items": [
+				{
+					"name": "Bonafide",
+					"logo": "images/bonafide.jpg",
+					"url": "https://bonafide.com.ar/",
+					"star": 2,
+					"history": {
+						"en": "Too expensive for so little flavor. While this coffee is not ugly, it lacks natural flavors and aromas.",
+						"es": "Demasiado caro por tan poco sabor. Este cafe mientras no es feo, carece de sabores naturales y aromas.",
+						"pt": "Muito caro para tão pouco sabor. Embora este café não seja feio, falta-lhe sabores e aromas naturais.",
+						"it": "Troppo costoso per così poco sapore. Anche se questo caffè non è brutto, manca di aromi e aromi naturali.",
+						"zn": "这么少的味道太贵了。虽然这种咖啡并不难看，但它缺乏天然的风味和香气。"
+					}
+				}
+			]
+		}
+	]
+};

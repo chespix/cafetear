@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="bean.svg"
+    viewBox="0 0 48 48"
+    version="1.1"
+    inkscape:version="0.48.0 r9654"
+  >
+  <defs
+      id="defs4"
+    >
+    <linearGradient
+        id="linearGradient3970"
+      >
+      <stop
+          id="stop3972"
+          style="stop-color:#311d01"
+          offset="0"
+      />
+      <stop
+          id="stop3974"
+          style="stop-color:#826444;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient3774"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3776"
+          style="stop-color:#2f1b00"
+          offset="0"
+      />
+      <stop
+          id="stop3778"
+          style="stop-color:#2f1b00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <filter
+        id="filter3887"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3889"
+          stdDeviation="0.59202016"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <radialGradient
+        id="radialGradient4019"
+        xlink:href="#linearGradient3774"
+        gradientUnits="userSpaceOnUse"
+        cy="738.49"
+        cx="640.96"
+        gradientTransform="matrix(-.029315 1.9962 -.33923 -.0049817 910.76 -1540.4)"
+        r="12.191"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient4021"
+        y2="-259.37"
+        xlink:href="#linearGradient3970"
+        gradientUnits="userSpaceOnUse"
+        x2="645.95"
+        gradientTransform="matrix(.66986 .74249 -.74249 .66986 15.674 -566.36)"
+        y1="-265.73"
+        x1="654.71"
+        inkscape:collect="always"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="24"
+      pagecolor="#ffffff"
+      inkscape:window-height="972"
+      inkscape:window-maximized="1"
+      inkscape:zoom="11.313708"
+      inkscape:window-x="0"
+      showgrid="true"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="28.870522"
+      inkscape:cy="24.366538"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Ebene 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -1004.4)"
+    >
+    <g
+        id="g4009"
+        transform="matrix(.70193 -.70192 .70193 .70192 -945.89 960.95)"
+      >
+      <g
+          id="g3958"
+          transform="matrix(-1 0 0 1 1282.9 0)"
+        >
+        <path
+            id="path3960"
+            d="m644.12-281c-1.0326 0.001-1.9317 0.5208-2.6875 1.375v27.625c0.91242 1.2306 1.993 1.893 3.2812 1.75 11.053-1.2273 11.846-27.891 0.25-30.625-0.28716-0.0677-0.57554-0.1253-0.84375-0.125z"
+            style="stroke-linejoin:round;stroke:#2f1b00;stroke-width:1.0074px;fill:#cab78f"
+            inkscape:connector-curvature="0"
+            transform="translate(0 1004.4)"
+        />
+        <path
+            id="path3962"
+            d="m644.12-280.47c-0.684-0.007-1.28 0.21306-1.8438 0.6875-0.29396 0.24739-0.57937 0.59792-0.84375 0.96875v25.969c0.27001 0.43551 0.58086 0.82076 0.875 1.125 0.7272 0.75209 1.4568 1.0985 2.3438 1 2.5664-0.28496 4.5413-2.0323 5.9375-4.6562s2.1566-6.1068 2.2188-9.625c0.0621-3.5182-0.53362-7.0919-1.875-9.9062-0.67065-1.4072-1.552-2.6198-2.5625-3.5625-1.0105-0.94274-2.1708-1.5855-3.5312-1.9062-0.25201-0.0594-0.49075-0.0914-0.71875-0.0937z"
+            style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:url(#radialGradient4019)"
+            inkscape:connector-curvature="0"
+            transform="translate(0 1004.4)"
+        />
+        <path
+            id="path3964"
+            d="m645.19-279.31c0.20961 0.35296 0.41497 0.70903 0.59375 1.0938 1.1269 2.4246 1.6074 5.474 1.5 8.5312-0.10741 3.0573-0.80552 6.1057-2.0625 8.4062-0.96699 1.7698-2.235 3.0717-3.7812 3.7188v4.6562c0.0663 0.10877 0.11901 0.24219 0.1875 0.34375 0.006 0.008 0.0253-0.008 0.0312 0 0.50728 0.35498 1.0442 0.51568 1.6562 0.4375 2.401-0.30672 4.2788-1.9736 5.625-4.4375s2.1037-5.7257 2.2188-9c0.11505-3.2743-0.38687-6.5595-1.5938-9.1562-0.45254-0.97383-1.0167-1.857-1.6562-2.5938-0.21334-0.24543-0.42416-0.50359-0.65625-0.71875-0.61164-0.56718-1.3091-0.96438-2.0625-1.2812z"
+            style="block-progression:tb;text-indent:0;filter:url(#filter3887);color:#000000;text-transform:none;fill:url(#linearGradient4021)"
+            inkscape:connector-curvature="0"
+            transform="translate(0 1004.4)"
+        />
+      </g
+      >
+      <g
+          id="g3976"
+          transform="translate(-.0089490)"
+        >
+        <path
+            id="path3978"
+            style="stroke-linejoin:round;stroke:#2f1b00;stroke-width:1.0074px;fill:#cab78f"
+            transform="translate(0 1004.4)"
+            inkscape:connector-curvature="0"
+            d="m644.12-281c-1.0326 0.001-1.9317 0.5208-2.6875 1.375v27.625c0.91242 1.2306 1.993 1.893 3.2812 1.75 11.053-1.2273 11.846-27.891 0.25-30.625-0.28716-0.0677-0.57554-0.1253-0.84375-0.125z"
+        />
+        <path
+            id="path3980"
+            style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:url(#radialGradient4019)"
+            transform="translate(0 1004.4)"
+            inkscape:connector-curvature="0"
+            d="m644.12-280.47c-0.684-0.007-1.28 0.21306-1.8438 0.6875-0.29396 0.24739-0.57937 0.59792-0.84375 0.96875v25.969c0.27001 0.43551 0.58086 0.82076 0.875 1.125 0.7272 0.75209 1.4568 1.0985 2.3438 1 2.5664-0.28496 4.5413-2.0323 5.9375-4.6562s2.1566-6.1068 2.2188-9.625c0.0621-3.5182-0.53362-7.0919-1.875-9.9062-0.67065-1.4072-1.552-2.6198-2.5625-3.5625-1.0105-0.94274-2.1708-1.5855-3.5312-1.9062-0.25201-0.0594-0.49075-0.0914-0.71875-0.0937z"
+        />
+        <path
+            id="path3982"
+            style="block-progression:tb;text-indent:0;filter:url(#filter3887);color:#000000;text-transform:none;fill:url(#linearGradient4021)"
+            transform="translate(0 1004.4)"
+            inkscape:connector-curvature="0"
+            d="m645.19-279.31c0.20961 0.35296 0.41497 0.70903 0.59375 1.0938 1.1269 2.4246 1.6074 5.474 1.5 8.5312-0.10741 3.0573-0.80552 6.1057-2.0625 8.4062-0.96699 1.7698-2.235 3.0717-3.7812 3.7188v4.6562c0.0663 0.10877 0.11901 0.24219 0.1875 0.34375 0.006 0.008 0.0253-0.008 0.0312 0 0.50728 0.35498 1.0442 0.51568 1.6562 0.4375 2.401-0.30672 4.2788-1.9736 5.625-4.4375s2.1037-5.7257 2.2188-9c0.11505-3.2743-0.38687-6.5595-1.5938-9.1562-0.45254-0.97383-1.0167-1.857-1.6562-2.5938-0.21334-0.24543-0.42416-0.50359-0.65625-0.71875-0.61164-0.56718-1.3091-0.96438-2.0625-1.2812z"
+        />
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Bean</dc:title
+        >
+        <dc:date
+          >2011-05-02T06:35:08</dc:date
+        >
+        <dc:description
+          >a single bean</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/135343/bean-by-aguest</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >aguest</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Bean</rdf:li
+            >
+            <rdf:li
+              >Coffee</rdf:li
+            >
+            <rdf:li
+              >Eclipse</rdf:li
+            >
+            <rdf:li
+              >Java</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
