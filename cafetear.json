@@ -4,8 +4,7 @@ var DATA = {
 		["English", "Español", "Português", "Italiano", "中文"]
 	],
 	"name": "CafeTeAR",
-	"mail": "cafetear@gmail.com",
-	"site": "cafete.ar",
+	"logo": "images/cafetear.svg",
 	"intro": {
 		"en": "The best tips for infusions lovers in Argentina.",
 		"es": "Los mejores consejos para los amantes de las infusiones en Argentina.",

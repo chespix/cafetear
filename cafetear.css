@@ -46,17 +46,18 @@ a:hover {
 	font-size: .6rem;
 }
 #name {
-	font-size: 1.6rem;
 	display: inline;
+	width: 8rem;
+	height: 4rem;
+	vertical-align: text-bottom;
 }
 #intro {
-	font-size: .4rem;
+	font-size: .6rem;
 	display: inline;
-	margin-left: .6rem;
 }
 #navbar {
 	height: 1rem;
-	background-color: rgba(0,0,0,.2);
+	background-color: rgba(50,50,50,1);
 }
 #navbar button {
 	height: 1rem;

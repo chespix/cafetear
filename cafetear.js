@@ -3,6 +3,8 @@ class SITE {
 		document.body.innerHTML = this.page(
 			DATA.langs,
 			DATA.name,
+			DATA.logo,
+			DATA.intro,
 			DATA.sections
 		);
 		document.getElementById("langs").addEventListener(
@@ -42,17 +44,17 @@ class SITE {
 
 	show(section) {
 		document.querySelectorAll(".section").forEach(a=>a.style.display = "none");
-		document.querySelectorAll(".navbar").forEach(a=>a.style.backgroundColor = "rgb(7,7,7,0)");
+		document.querySelectorAll(".navbar").forEach(a=>a.style.backgroundColor = "rgb(200,200,200,1)");
 		var elem = document.getElementById("s"+section);
 		elem.style.display = "block";
 		elem = document.getElementById("b"+section);
-		elem.style.backgroundColor = "rgb(77,77,77,.5)";
+		elem.style.backgroundColor = "rgb(150,150,150,1)";
 	}
 
-	page(langs, name, intro, sections) {
+	page(langs, name, logo, intro, sections) {
 		return '<div id="header">\
 <div id="toolbox">' + this.langs(langs) + '</div>\
-<div id="name">' + name + '</div>\
+<img id="name" src="' + logo + '" alt="' + name + '"></img>\
 <div id="intro">' + intro + '</div>\
 <div id="navbar">'+ this.navbar(DATA.sections) +'</div>\
 </div>'
